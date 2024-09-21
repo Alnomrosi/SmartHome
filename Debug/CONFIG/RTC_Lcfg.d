@@ -1,0 +1,1 @@
+CONFIG/RTC_Lcfg.o CONFIG/RTC_Lcfg.o: ../CONFIG/RTC_Lcfg.c

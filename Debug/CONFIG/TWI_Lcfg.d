@@ -1,0 +1,1 @@
+CONFIG/TWI_Lcfg.o CONFIG/TWI_Lcfg.o: ../CONFIG/TWI_Lcfg.c
